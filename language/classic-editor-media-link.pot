@@ -1,0 +1,58 @@
+# Copyright (C) 2024 Dmytro Kudleichuk, RockStarLab
+# This file is distributed under the same license as the Insert Link Dialog Media plugin.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Insert Link Dialog Media 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/insert-link-"
+"dialog-media\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-04-30 07:48+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Domain: insert-link-dialog-media\n"
+"\n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;"
+
+#: src/index.js:14
+msgid "Choose"
+msgstr ""
+
+#. Author of the plugin
+msgid "Dmytro Kudleichuk, RockStarLab"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://profiles.wordpress.org/rockstarlab/"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://profiles.wordpress.org/rockstarlab/profile/"
+msgstr ""
+
+#. Name of the plugin
+msgid "Insert Link Dialog Media"
+msgstr ""
+
+#: src/index.js:13
+msgid "Media file"
+msgstr ""
+
+#: src/index.js:12
+msgid "Or choose existing media file"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Plugin adds Media Library to the default TinyMCE (Classic Editor) Insert "
+"Link dialog"
+msgstr ""
+
+#: src/index.js:37
+msgid "Select Media"
+msgstr ""
